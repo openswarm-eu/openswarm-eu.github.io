@@ -12,4 +12,4 @@ The goal of this documentation is provide a foundation of swarm capabilities and
 
 **Swarm enablers** include a software architecture that allows for the OpenSwarm code base to run both on small micro-controllers (e.g., Kilobot, DotBot), and as part of the Robot Operating System (ROS) on more capable platforms (e.g., on UAVs in T6.2), in an interoperable fashion. The outcome of this work is used directly into T5.2, then indirectly for all verification (T5.2, T5.5) and PoCs (WP6).
 
-This documentation is the deliverable **D5.1 Foundation of the OpenSwarm implementation with corresponding documentation**
+**This documentation is the deliverable D5.1 Foundation of the OpenSwarm implementation with corresponding documentation.**
