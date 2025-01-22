@@ -5,13 +5,19 @@ lightModeImage="./img/mrs_f4f_large_light.png"
 darkModeImage="./img/mrs_f4f_large_dark.png"
 /> -->
 
-<h1>OpenSwarm Documentation</h1>
+<h1>Foundation of the OpenSwarm implementation</h1>
 
 <div class="sideBySide">
 
 <div class="text">
 <p>
-The aim of this page is to provide the foundation of the OpenSwarm implementation with corresponding documentation. The core technologies are based on three scientific pillars: orchestrating collaborative smart nodes, collaborative energy-aware AI, and energy-aware swarm programming. Each pillar addresses a different scientific objective, each task a different aspect thereof.
+The [OpenSwarm](https://openswarm.eu/) (Orchestration and Programming ENergy-aware and collaborative Swarms With AI-powered Reliable Methods) project seeks to revolutionize data-driven systems with low-power wireless technology, focusing on three pillars: 
+- efficient networking and management of smart nodes, 
+- collaborative energy-aware Artificial Intelligence (AI), and 
+- energy-aware swarm programming. 
+
+Results are consolidated in the open-source software "OpenSwarm," validated on 1,000 node testbeds, and applied to proof-of-concept cases in renewable energy, environmental monitoring, industrial health, and mobility.
+
 </p>
 </div>
 
@@ -21,7 +27,7 @@ The aim of this page is to provide the foundation of the OpenSwarm implementatio
 
 </div>
 
-<Button label="📖 Documentation" link="/docs/introduction" /> will give you **context** and show you the **features** of our system.
+<Button label="📖 Documentation" link="/docs/introduction" /> will give you **context** and show you the **features** of the system.
 
 <!-- Don't forget to check out our <Button label="✏️ blog" link="/blog" /> to read about our latest updates. -->
 
