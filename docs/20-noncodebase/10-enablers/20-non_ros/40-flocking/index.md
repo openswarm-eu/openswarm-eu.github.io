@@ -14,3 +14,9 @@ description: Flocking formation.
 * **Responsible**: Genki Miyauchi
 
 <Button label="🔗 genkimiyauchi/flocking repository" link="https://github.com/genkimiyauchi/flocking" block /><br />
+
+# Overview
+
+This repository contains a Python implementation of a flocking controller for a swarm of robots that has range and bearing access to its neighboring robots.
+
+It is based on the [Mie potential](https://en.wikipedia.org/wiki/Mie_potential), which involves attractive and repulsive forces. Each robot calculates virtual forces with its neighbors, which results in an overall flocking behavior.
