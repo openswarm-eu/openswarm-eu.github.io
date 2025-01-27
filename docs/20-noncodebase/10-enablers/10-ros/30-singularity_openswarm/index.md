@@ -40,19 +40,7 @@ Before starting, ensure the following:
 
 3. Copy the `example_wrapper.sh` (versioned example) into `wrapper.sh` (.gitignored). It will allow you to configure the wrapper for yourself. When copying the `example_wrapper.sh` outside of the `mrs_apptainer` folder, the `MRS_APPTAINER_PATH` variable within the script needs to be pointed to the correct location of the repository.
 5. Run the Apptainer container by issuing:
-```bash
-./wrapper.sh
-```
-
-Now, you should see the terminal prompt of the apptainer container, similar to this:
-```bash
-[MRS Apptainer] user@hostname:~$
-```
-
-You can **test** whether the MRS UAV System is operational by starting the example Gazebo simulation session.
-```bash
-[MRS Apptainer] user@hostname:~$ roscd mrs_uav_gazebo_simulation/tmux/one_drone
-[MRS Apptainer] user@hostname:~$ ./start.sh
+```bash6. hostname:~$ ./start.sh
 ```
 
 In this case, you will see:
@@ -78,23 +66,26 @@ In this case, you will see:
 - Initialize and configure a new catkin workspace:
 ```bash
 ./wrapper.sh
-[MRS Apptainer]$ make build
+[MRS Apptainer] user@hostname:~/singularity_poc2$ make build
 ```
 - Use `make install-sys` to install the OpenSwarm workspace. This command-line uses wstool and will install all the ROS-packages listed in the `<mrs_apptainer>/user_ros_workspace/src/.rosinstall` file.
 ```bash
-[MRS Apptainer]$ make install-sys
+[MRS Apptainer] user@hostname:~/singularity_poc2$ make install-sys
 ```
 - Once the ROS-packages have been downloaded, build the system
 ```bash
-[MRS Apptainer]$ cd ~/user_ros_workspace/
-[MRS Apptainer]$ catkin build
+[MRS Apptainer] user@hostname:~/singularity_poc2$ cd ~/user_ros_workspace/
+[MRS Apptainer] user@hostname:~/singularity_poc2$ catkin build
 ```
 - Run source devel/setup.bash in your terminal.
 ```bash
-[MRS Apptainer]$ source devel/setup.bash
+[MRS Apptainer] user@hostname:~/singularity_poc2$ source devel/setup.bash
 ```
 
-6. You can run the OpenSwarm Simulator.
+## OpenSwarm Simulator
+
+### Pre-prepared simulator
+You can run a previously prepared simulator.
 - One drone with 3D Lidar sensors
 ```bash
 [MRS Apptainer] user@hostname:~$ roscd mrs_openswarm_simulation/tmux/one_drone_3dlidar
@@ -108,3 +99,6 @@ In this case, you will see:
 [MRS Apptainer] user@hostname:~$ ./start.sh
 ```
 ![three_drones](img/singularity_example_three_swarm.png)
+
+### New simulators
+Please, check [here](../20-mrs_uav_gazebo_simulation/index.md)
