@@ -39,8 +39,11 @@ Before starting, ensure the following:
 | [recipes/stable_from_apt_openswarm/build.sh](recipes/stable_from_apt/build.sh)       | installs directly from the [stable PPA](https://github.com/ctu-mrs/ppa-stable) and the ROS-based packages          |
 
 3. Copy the `example_wrapper.sh` (versioned example) into `wrapper.sh` (.gitignored). It will allow you to configure the wrapper for yourself. When copying the `example_wrapper.sh` outside of the `mrs_apptainer` folder, the `MRS_APPTAINER_PATH` variable within the script needs to be pointed to the correct location of the repository.
-5. Run the Apptainer container by issuing:
-```bash6. hostname:~$ ./start.sh
+
+4. Run the Apptainer container by issuing:
+```bash
+[MRS Apptainer] user@hostname:~$ roscd mrs_uav_gazebo_simulation/tmux/one_drone
+[MRS Apptainer] user@hostname:~$ ./start.sh
 ```
 
 In this case, you will see:
