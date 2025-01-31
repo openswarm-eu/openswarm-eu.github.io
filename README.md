@@ -12,6 +12,14 @@ sudo apt-get -y install nodejs
 curl https://raw.githubusercontent.com/creationix/nvm/v0.40.1/install.sh | bash
 ```
 
+## Windows
+
+- download and install node.js from https://nodejs.org/en/download (in my case `node-v22.13.1-x64.msi`)
+- clone https://github.com/openswarm-eu/openswarm-eu.github.io
+- `cd` in there
+- `npm install --force`
+- `npm run start`
+
 ## Run
 
 ```bash
