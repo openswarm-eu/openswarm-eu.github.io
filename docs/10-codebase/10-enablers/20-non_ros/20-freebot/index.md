@@ -1,15 +1,15 @@
 ---
-title: FreeBot
-pagination_label: FreeBot
-description: Document FreeBot design
+title: CapBot
+pagination_label: CapBot
+description: Document CapBot design
 ---
 
-# FreeBot
+# CapBot
 
-**Description**: Provides schematics for the various versions of the FreeBot board and associated evaluation boards. Provides software for  the core functionality of FreeBot and reference implementation of the library for BLE control.
+**Description**: Provides schematics for the various versions of the CapBot board and associated evaluation boards. Provides software for  the core functionality of CapBot and reference implementation of the library for BLE control.
 
 * **Primary Functionality**: Document FreeBot design.
-* **Target**: Cutom hardware
+* **Target**: Custom hardware
 * **Task**: T4.1
 * **Responsible**: Mengyao Liu
 
