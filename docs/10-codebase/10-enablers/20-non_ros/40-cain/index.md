@@ -9,7 +9,7 @@ description: Document transceiver design for CaIN paper @ EWSN 2024
 **Description**: CaIN introduces a novel near-field mesh networking system that combines ultra-low power with low-latency performance. 
 
 * **Primary Functionality**: Document transceiver design for CaIN paper @ EWSN 2024.
-* **Target**: Custom hardware
+* **Target**: Transceiver front end
 * **Task**: T2.1
 * **Responsible**: Mengyao Liu
 
