@@ -10,7 +10,7 @@ description: Firmware to control DotBots
 
 * **Primary Functionality**: Firmware to control DotBots.
 * **Target**: nRF52840 and nRF5340
-* **Task**: -
+* **Task**: T5.4
 * **Responsible**: Alexandre Abadie
 
 <Button label="🔗 openswarm-eu/DotBot-firmware" link="https://github.com/openswarm-eu/DotBot-firmware" block /><br />
