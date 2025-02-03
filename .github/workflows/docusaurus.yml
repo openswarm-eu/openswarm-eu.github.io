@@ -43,6 +43,8 @@ jobs:
         run: yarn add --frozen-lockfile --non-interactive remark-math@6 rehype-katex@7 @aldridged/docusaurus-plugin-lunr docusaurus-lunr-search
       - name: Build
         run: yarn build
+      - name: Remove Symlinks (if any)
+        run: find build -type l -exec rm -f {} \;
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
