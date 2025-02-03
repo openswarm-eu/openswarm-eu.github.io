@@ -13,6 +13,4 @@ description: Build and deploy a robotic swarm
 * **Task**: T5.5
 * **Responsible**: Alexandre Abadie
 
-<Button label="🔗 LMY-Mengyao/FreeBot repository" link="https://github.com/LMY-Mengyao/FreeBot" block /><br />
-
-[Swarmit](https://github.com/openswarm-eu/swarmit).
+<Button label="🔗 OpenSwarm-EU/SwarmIT repository" link="https://github.com/openswarm-eu/swarmit" block /><br />
