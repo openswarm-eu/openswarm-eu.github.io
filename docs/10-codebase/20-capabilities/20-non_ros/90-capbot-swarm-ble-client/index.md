@@ -13,7 +13,7 @@ description: CapBot firmware for multi-robot communication using BLE.
 * **Task**: T4.1
 * **Responsible**: Genki Miyauchi
 
-<Button label="🔗 jessicajayakumar/FreeBot repository" link="https://github.com/jessicajayakumar/FreeBot" block /><br />
+<Button label="🔗 openswarm-eu/Capbot-Swarm-BLE-Client repository" link="https://github.com/openswarm-eu/Capbot-Swarm-BLE-Client" block /><br />
 
 # Overview
 
