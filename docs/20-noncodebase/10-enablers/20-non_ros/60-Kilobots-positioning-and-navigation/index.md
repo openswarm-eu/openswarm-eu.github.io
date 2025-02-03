@@ -28,5 +28,5 @@ The repository provides:
 
 # Prerequisites
 
-To use the code provided in the repository, the user must be familiar with the Kilobot robots and their programming (see [paper](https://ieeexplore.ieee.org/abstract/document/6224638) and [dedicated wiki](https://www.giovannireina.com/kilowiki/index.php?title=Getting_Started:_How_to_work_with_kilobots)) and the ARK system (see [paper](https://ieeexplore.ieee.org/document/7915692) & [dedicated wiki](https://www.giovannireina.com/kilowiki/index.php?title=Getting_started_on_ARK))
+To use the code provided in the repository, the user must be familiar with the Kilobot robots and their programming (see [paper](https://ieeexplore.ieee.org/abstract/document/6224638) and [guide](https://www.giovannireina.com/kilowiki/index.php?title=Getting_Started:_How_to_work_with_kilobots)) and the ARK system (see [paper](https://ieeexplore.ieee.org/document/7915692) & [guide](https://www.giovannireina.com/kilowiki/index.php?title=Getting_started_on_ARK))
 
