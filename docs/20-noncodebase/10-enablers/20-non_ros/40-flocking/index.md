@@ -13,7 +13,7 @@ description: Flocking formation.
 * **Task**: T5.1
 * **Responsible**: Genki Miyauchi
 
-<Button label="🔗 genkimiyauchi/flocking repository" link="https://github.com/genkimiyauchi/flocking" block /><br />
+<Button label="🔗 openswarm-eu/flocking repository" link="https://github.com/openswarm-eu/flocking" block /><br />
 
 # Overview
 
