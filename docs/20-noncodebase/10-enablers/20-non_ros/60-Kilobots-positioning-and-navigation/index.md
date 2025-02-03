@@ -13,7 +13,7 @@ description: Kilobot navigation using ARK.
 * **Task**: T5.1
 * **Responsible**: Mohamed S. Talamali
 
-<Button label="🔗 mstalamali/Kilobots-Positioning-and-Navigation repository" link="https://github.com/mstalamali/Kilobots-Positioning-and-Navigation" block /><br />
+<Button label="🔗 openswarm-eu/Kilobots-Positioning-and-Navigation repository" link="https://github.com/openswarm-eu/Kilobots-Positioning-and-Navigation" block /><br />
 
 # Overview
 
