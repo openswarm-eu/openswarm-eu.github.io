@@ -13,7 +13,7 @@ description: Document transceiver design for CaIN paper @ EWSN 2024
 * **Task**: T2.1
 * **Responsible**: Mengyao Liu
 
-<Button label="🔗 KULeuvenNESLFradio/CaIN repository" link="https://github.com/KULeuvenNESLFradio/CaIN" block /><br />
+<Button label="🔗 openswarm-eu/CaIN repository" link="https://github.com/openswarm-eu/CaIN" block /><br />
 
 > Mengyao Liu, Bingwu Fang, Jonathan Oostvogels, Sam Michiels, Andrei Belogaev, Xinlei Liu, Jeroen Famaey, Danny Hughes,"*CaIN: Low Power and Low Latency VHF Mesh Networking*", the 21st International Conference on Embedded Wireless Systems and Networks, EWSN '24: Abu Dhabi, UAE, December 10-13, 2024
 
