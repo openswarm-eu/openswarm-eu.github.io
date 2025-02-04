@@ -15,7 +15,7 @@ description: Provide example code for CapBot SW.
 
 <Button label="🔗 KULeuven-CapBot/example-blink repository" link="https://github.com/KULeuven-CapBot/example-blink" block /><br />
 <Button label="🔗 KULeuven-CapBot/example-log-vcap repository" link="https://github.com/KULeuven-CapBot/example-log-vcap" block /><br />
-<Button label="🔗 KULeuven-CapBot/example-drive repository" link="https://github.com/KULeuven-CapBot/example-drive" block /><br />
+<Button label="🔗 openswarm-eu/example-drive repository" link="https://github.com/openswarm-eu/freebot-example" block /><br />
 
 ## Overview
 
