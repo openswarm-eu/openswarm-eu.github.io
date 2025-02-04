@@ -9,7 +9,7 @@ description: Provide example code for CapBot SW.
 **Description**: Showcases how to use the CapBot Hardware/Software from a developer's point of view.
 
 * **Primary Functionality**: Provide example code for CapBot SW.
-* **Target**: Custom hardware
+* **Target**: nRF52840
 * **Task**: T4.1
 * **Responsible**: Mengyao Liu
 
