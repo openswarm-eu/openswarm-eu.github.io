@@ -13,7 +13,7 @@ description: Provide CapBot BLE control
 * **Task**: T4.1
 * **Responsible**: Mengyao Liu
 
-<Button label="🔗 KULeuven-CapBot/example-ble-control repository" link="https://github.com/KULeuven-CapBot/example-ble-control" block /><br />
+<Button label="🔗 openswarm-eu/example-ble-control repository" link="https://github.com/openswarm-eu/freebot-gatt-control" block /><br />
 
 ## Overview
 
