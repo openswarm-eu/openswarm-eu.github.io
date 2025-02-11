@@ -9,7 +9,7 @@ description: Support FreeBot tutorial.
 **Description**: Contains support material for a tutorial on FreeBot.
 
 * **Primary Functionality**: Support FreeBot tutorial.
-* **Target**: nRF52840
+* **Target**: Custom hardware
 * **Task**: T4.1
 * **Responsible**: Mengyao Liu
 
