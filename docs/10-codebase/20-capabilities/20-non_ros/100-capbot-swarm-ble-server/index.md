@@ -13,7 +13,7 @@ description: DK-Board firmware for multi-robot communication using BLE.
 * **Task**: T4.1
 * **Responsible**: Genki Miyauchi
 
-<Button label="🔗 jessicajayakumar/DK-Board-Central repository" link="https://github.com/jessicajayakumar/DK-Board-Central" block /><br />
+<Button label="🔗 openswarm-eu/Capbot-Swarm-BLE-Server repository" link="https://github.com/openswarm-eu/Capbot-Swarm-BLE-Server" block /><br />
 
 # Overview
 

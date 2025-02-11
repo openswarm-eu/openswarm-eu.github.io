@@ -13,7 +13,7 @@ description: Navigation along an ad-hoc network of robots.
 * **Task**: T5.1
 * **Responsible**: Genki Miyauchi
 
-<Button label="🔗 genkimiyauchi/traverse-network repository" link="https://github.com/genkimiyauchi/traverse-network" block /><br />
+<Button label="🔗 openswarm-eu/traverse-network repository" link="https://github.com/openswarm-eu/traverse-network" block /><br />
 
 # Overview
 

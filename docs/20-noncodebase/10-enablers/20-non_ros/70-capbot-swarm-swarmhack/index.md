@@ -13,7 +13,7 @@ description: Tracking system for the CapBots.
 * **Task**: T4.1
 * **Responsible**: Genki Miyauchi
 
-<Button label="🔗 genkimiyauchi/capbot-swarm-swarmhack repository" link="https://github.com/genkimiyauchi/capbot-swarm-swarmhack" block /><br />
+<Button label="🔗 openswarm-eu/Capbot-Swarm-Swarmhack repository" link="https://github.com/openswarm-eu/Capbot-Swarm-Swarmhack" block /><br />
 
 # Overview
 

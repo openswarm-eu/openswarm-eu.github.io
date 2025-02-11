@@ -13,7 +13,7 @@ description: Simulator for UAV-based package delivery.
 * **Task**: T4.4
 * **Responsible**: Mohamed S. Talamali
 
-<Button label="🔗 mstalamali/EA_Drone_Delivery repository" link="https://github.com/mstalamali/EA_Drone_Delivery" block /><br />
+<Button label="🔗 openswarm-eu/EA_Drone_Delivery repository" link="https://github.com/openswarm-eu/EA_Drone_Delivery" block /><br />
 
 # Screenshot
 ![Energy-aware UAV-based delivery](./img/ea_drone_delivery.png)
