@@ -6,7 +6,7 @@ description: Document CapBot design
 
 # CapBot
 
-**Description**: Provides schematics for the various versions of the CapBot board and associated evaluation boards. Provides software for  the core functionality of CapBot and reference implementation of the library for BLE control.
+**Description**: Provides schematics for the various versions of the CapBot board and associated evaluation boards. Provides software for the core functionality of CapBot and reference implementation of the library for BLE control.
 
 * **Primary Functionality**: Document FreeBot design.
 * **Target**: nRF52840
@@ -40,4 +40,4 @@ Nothing special (yet).
 > [!WARNING]
 > The pins `IO1`, `IO2` and `IO3` on the feather-header correspond with `D15`, `D16` and `SW2` respectively.
 > Make sure that these are not shorted accidentally because of this.
-> ![Schematic view](../img/cb-v1.1b-io-collision.png)
+> ![Schematic view](img/cb-v1.1b-io-collision.png)
