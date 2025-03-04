@@ -6,11 +6,14 @@ description: Narrative simulation for Smart Energy scenarios.
 
 # ![BIFROST Logo](BIFROST_Logo.png)
 
-**Description**: Digital twin for energy use cases.
-* **Primary Functionality**: UI for Energy PoC.
+**Description**: BIFROST acts as a virtual testbed and can replicate the electrical energy distribution for PoC 1 "Cities & Community: Renewable Energy Community" in order to test and demonstrate the developed swarm technologies. 
+* **Primary Functionality**: UI and co-simulation framework for Energy PoC 1 "Cities & Community: Renewable Energy Community".
 * **Target**: PC
 * **Task**: T4.2, T6.1
 * **Responsible**: Franz Zeilinger
+
+<Button label="🔗 Repository for the developed BIFROST modules" link="https://github.com/openswarm-eu/bifrost-openswarm-modules" block /><br />
+<Button label="🔗 Repository for the developed BIFROST scenarios" link="https://github.com/openswarm-eu/bifrost-openswarm-scenarios" block /><br />
 
 ## Overview
 
@@ -42,6 +45,8 @@ Our [Developer Hub](https://bifrost.siemens.com/en/developer-hub) explains how t
 
 ## PoC Usage
 
+Since we can only carry out real tests to a limited extent in the real energy distribution system, or these have to be thoroughly tested beforehand before they can be applied, BIFROST provides the necessary virtual test bed.
+
 To allow hardware-related implementations, a so-called Reality Twin is also created, which makes it possible to connect the BIFROST used as a virtual testbed directly with components of the real world.
 This Reality Twin is currently being implemented...
 
@@ -49,5 +54,11 @@ This Reality Twin is currently being implemented...
 |:-------------------------------|:-------------------------------------------|
 |![RealityTwin](RealityTwin.JPG) |![RealityTwin_Setup](RealityTwin_Setup.JPG) |
 
-<Button label="🔗 openswarm-eu/bifrost repository" link="https://github.com/openswarm-eu/bifrost" block /><br />
+### Developed Modules
+
+<Button label="🔗 Repository for the developed BIFROST modules" link="https://github.com/openswarm-eu/bifrost-openswarm-modules" block /><br />
+
+### Developed Scenarios
+
+<Button label="🔗 Repository for the developed BIFROST scenarios" link="https://github.com/openswarm-eu/bifrost-openswarm-scenarios" block /><br />
 
