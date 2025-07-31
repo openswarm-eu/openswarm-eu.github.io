@@ -69,7 +69,6 @@ boolean checkRxStatus();        // Check channel availability
 ```
 
 ## ⚡ Experiments 
-![ENOCH Transceiver](img/demo.png)
 ### 1️⃣ Single Transmitter & Receiver
 - One **ENOCH board** transmits, the other receives.
 - The receiver outputs data via `Serial Monitor`.
