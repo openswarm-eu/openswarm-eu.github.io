@@ -101,6 +101,9 @@ Keybinds
 * R2 : Run
 * R3 (Right Joystick) : Move Character
 
+#### Tutorial Video
+[![ING_UAV_Video](https://img.youtube.com/vi/jJtl3jHZLhc/0.jpg)](https://youtu.be/jJtl3jHZLhc)
+
 ### Computer B
 Don’t forget to source your workspace before running any ROS commands:
 1. Launch the ROS-TCP (terminal 1)
