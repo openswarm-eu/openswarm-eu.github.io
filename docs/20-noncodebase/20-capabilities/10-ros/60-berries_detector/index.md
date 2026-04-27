@@ -13,4 +13,4 @@ description: Berry Detector.
 - **Task**: T5.1
 - **Responsible**: Micael Couceiro
 
-<Button label="🔗 openswarm-eu/berries_detector_gemmo repository" link="https://github.com/openswarm-eu/berries_detector_gemmo" block /><br />
+<Button label="🔗 openswarm-eu/berries_detector repository" link="https://github.com/openswarm-eu/berries_detector" block /><br />
